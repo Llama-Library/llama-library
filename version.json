@@ -1,6 +1,6 @@
 {
-  "version": "1.0.125",
+  "version": "1.0.126",
   "url": "https://github.com/Llama-Library/llama-library/releases/latest",
   "notes": "Latest release of Llama Library.",
-  "tools": { "lamb": "1.0.047" }
+  "tools": { "lamb": "1.0.048" }
 }
